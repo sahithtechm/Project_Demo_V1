@@ -1,6 +1,6 @@
 [
   {
-    "title": "Project A",
+    "title": "Banking Project",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
@@ -8,7 +8,7 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Health Care Project",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node", "Sass"],
@@ -16,7 +16,7 @@
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "Television App",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
